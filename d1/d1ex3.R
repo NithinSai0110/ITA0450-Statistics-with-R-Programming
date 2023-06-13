@@ -1,0 +1,6 @@
+v1<-seq(20,60)
+v2<-seq(51,91)
+cat("the sequence (20:60) is:\n",v1,"\n the mean of sequence(20:60) is")
+print(mean(v1))
+cat("\n the sequence (51:91) is:\n",v2,"\n the sum of sequence(51:91) is")
+print(sum(v2))
