@@ -1,0 +1,5 @@
+v1<-c(12,7,3,4.2,18,2,54,-21,8,-5)
+cat("sorted vector is : \n")
+print(sort(v1))
+s<-median(v1)
+cat("the median of the data is :",s)
